@@ -1,1 +1,502 @@
+order_id	order_date	region	country	store_name	product	category	quantity	unit_price	total_sales	cost	profit
+1001	10-03-2024	South America	Argentina	Mall Outlet Argentina	Cold Brew	Drink	83	4.5	373.5	232.4	141.1
+1002	01-03-2024	Africa	South Africa	University Cafe South Africa	Americano	Drink	18	3.8	68.4	37.8	30.6
+1003	21-02-2024	Europe	Germany	University Cafe Germany	Blueberry Muffin	Snack	50	2.5	125	60	65
+1004	11-02-2024	North America	USA	Business District USA	Latte	Drink	17	4	68	42.5	25.5
+1005	18-02-2024	South America	Brazil	University Cafe Brazil	Latte	Drink	50	4	200	125	75
+1006	27-01-2024	Europe	Germany	Mall Outlet Germany	Latte	Drink	89	4	356	222.5	133.5
+1007	08-01-2024	North America	Canada	Mall Outlet Canada	Espresso	Drink	62	3.5	217	124	93
+1008	24-06-2024	Asia	Japan	Airport Kiosk Japan	Latte	Drink	51	4	204	127.5	76.5
+1009	08-01-2024	North America	Canada	Mall Outlet Canada	Cold Brew	Drink	75	4.5	337.5	210	127.5
+1010	21-01-2024	Asia	China	Airport Kiosk China	Cappuccino	Drink	91	4.2	382.2	245.7	136.5
+1011	27-03-2024	Europe	Germany	Business District Germany	Latte	Drink	41	4	164	102.5	61.5
+1012	09-06-2024	South America	Argentina	University Cafe Argentina	Espresso	Drink	68	3.5	238	136	102
+1013	10-05-2024	North America	Canada	Business District Canada	Latte	Drink	13	4	52	32.5	19.5
+1014	11-04-2024	South America	Argentina	Airport Kiosk Argentina	Latte	Drink	100	4	400	250	150
+1015	01-04-2024	Asia	India	Airport Kiosk India	Chocolate Croissant	Snack	41	3	123	61.5	61.5
+1016	25-05-2024	Asia	India	Business District India	Cappuccino	Drink	36	4.2	151.2	97.2	54
+1017	05-04-2024	Asia	China	University Cafe China	Chocolate Croissant	Snack	32	3	96	48	48
+1018	23-03-2024	South America	Brazil	University Cafe Brazil	Cappuccino	Drink	86	4.2	361.2	232.2	129
+1019	20-01-2024	North America	USA	Airport Kiosk USA	Chocolate Croissant	Snack	52	3	156	78	78
+1020	08-01-2024	South America	Argentina	Business District Argentina	Americano	Drink	19	3.8	72.2	39.9	32.3
+1021	05-03-2024	North America	Mexico	Business District Mexico	Bagel	Snack	61	2.8	170.8	85.4	85.4
+1022	19-05-2024	Europe	France	Business District France	Bagel	Snack	83	2.8	232.4	116.2	116.2
+1023	26-05-2024	Asia	Japan	Downtown Japan	Americano	Drink	16	3.8	60.8	33.6	27.2
+1024	27-03-2024	South America	Brazil	Mall Outlet Brazil	Cold Brew	Drink	22	4.5	99	61.6	37.4
+1025	18-03-2024	Europe	France	Business District France	Latte	Drink	81	4	324	202.5	121.5
+1026	17-01-2024	Asia	China	Mall Outlet China	Espresso	Drink	71	3.5	248.5	142	106.5
+1027	08-03-2024	Europe	UK	Business District UK	Bagel	Snack	43	2.8	120.4	60.2	60.2
+1028	16-01-2024	North America	Canada	Business District Canada	Cappuccino	Drink	62	4.2	260.4	167.4	93
+1029	09-03-2024	North America	USA	University Cafe USA	Blueberry Muffin	Snack	97	2.5	242.5	116.4	126.1
+1030	16-05-2024	Africa	South Africa	Mall Outlet South Africa	Cappuccino	Drink	29	4.2	121.8	78.3	43.5
+1031	04-02-2024	North America	Canada	Mall Outlet Canada	Americano	Drink	19	3.8	72.2	39.9	32.3
+1032	10-03-2024	Africa	Kenya	Business District Kenya	Latte	Drink	33	4	132	82.5	49.5
+1033	25-02-2024	Europe	UK	Business District UK	Latte	Drink	52	4	208	130	78
+1034	01-03-2024	Africa	South Africa	Airport Kiosk South Africa	Bagel	Snack	67	2.8	187.6	93.8	93.8
+1035	18-01-2024	South America	Argentina	Mall Outlet Argentina	Bagel	Snack	15	2.8	42	21	21
+1036	13-06-2024	Africa	South Africa	Business District South Africa	Espresso	Drink	61	3.5	213.5	122	91.5
+1037	31-05-2024	South America	Argentina	Business District Argentina	Bagel	Snack	52	2.8	145.6	72.8	72.8
+1038	16-05-2024	Asia	Japan	University Cafe Japan	Chocolate Croissant	Snack	12	3	36	18	18
+1039	19-05-2024	Europe	France	Mall Outlet France	Cold Brew	Drink	60	4.5	270	168	102
+1040	02-06-2024	Europe	UK	Downtown UK	Bagel	Snack	13	2.8	36.4	18.2	18.2
+1041	12-05-2024	South America	Brazil	University Cafe Brazil	Bagel	Snack	10	2.8	28	14	14
+1042	08-03-2024	Africa	Kenya	Mall Outlet Kenya	Blueberry Muffin	Snack	48	2.5	120	57.6	62.4
+1043	07-05-2024	Africa	Kenya	Downtown Kenya	Bagel	Snack	94	2.8	263.2	131.6	131.6
+1044	26-03-2024	North America	Canada	Downtown Canada	Latte	Drink	96	4	384	240	144
+1045	05-04-2024	Asia	China	Business District China	Blueberry Muffin	Snack	87	2.5	217.5	104.4	113.1
+1046	06-03-2024	Europe	Germany	University Cafe Germany	Cold Brew	Drink	44	4.5	198	123.2	74.8
+1047	18-05-2024	North America	Mexico	Airport Kiosk Mexico	Americano	Drink	64	3.8	243.2	134.4	108.8
+1048	22-01-2024	North America	USA	Mall Outlet USA	Latte	Drink	100	4	400	250	150
+1049	27-03-2024	North America	Mexico	Business District Mexico	Blueberry Muffin	Snack	18	2.5	45	21.6	23.4
+1050	13-04-2024	North America	Canada	Business District Canada	Cold Brew	Drink	98	4.5	441	274.4	166.6
+1051	02-02-2024	Asia	Japan	Mall Outlet Japan	Blueberry Muffin	Snack	78	2.5	195	93.6	101.4
+1052	03-05-2024	South America	Brazil	Business District Brazil	Latte	Drink	51	4	204	127.5	76.5
+1053	26-03-2024	Africa	Kenya	Airport Kiosk Kenya	Americano	Drink	18	3.8	68.4	37.8	30.6
+1054	02-03-2024	Asia	India	Mall Outlet India	Blueberry Muffin	Snack	63	2.5	157.5	75.6	81.9
+1055	22-06-2024	North America	Mexico	Mall Outlet Mexico	Cappuccino	Drink	70	4.2	294	189	105
+1056	11-02-2024	South America	Argentina	Business District Argentina	Espresso	Drink	47	3.5	164.5	94	70.5
+1057	25-03-2024	Africa	Kenya	Downtown Kenya	Latte	Drink	17	4	68	42.5	25.5
+1058	04-04-2024	North America	Canada	Mall Outlet Canada	Chocolate Croissant	Snack	50	3	150	75	75
+1059	22-05-2024	Africa	South Africa	Mall Outlet South Africa	Bagel	Snack	65	2.8	182	91	91
+1060	29-05-2024	Europe	Germany	Mall Outlet Germany	Espresso	Drink	70	3.5	245	140	105
+1061	05-04-2024	Africa	Kenya	Mall Outlet Kenya	Bagel	Snack	15	2.8	42	21	21
+1062	11-03-2024	Africa	South Africa	University Cafe South Africa	Americano	Drink	16	3.8	60.8	33.6	27.2
+1063	29-02-2024	Asia	China	Airport Kiosk China	Espresso	Drink	14	3.5	49	28	21
+1064	24-04-2024	Europe	France	University Cafe France	Bagel	Snack	82	2.8	229.6	114.8	114.8
+1065	09-01-2024	Africa	South Africa	Mall Outlet South Africa	Latte	Drink	95	4	380	237.5	142.5
+1066	29-05-2024	Asia	China	Business District China	Americano	Drink	98	3.8	372.4	205.8	166.6
+1067	01-05-2024	North America	Canada	University Cafe Canada	Espresso	Drink	80	3.5	280	160	120
+1068	25-03-2024	Europe	Germany	Airport Kiosk Germany	Chocolate Croissant	Snack	92	3	276	138	138
+1069	29-01-2024	Africa	Kenya	Mall Outlet Kenya	Cold Brew	Drink	71	4.5	319.5	198.8	120.7
+1070	19-02-2024	North America	USA	University Cafe USA	Americano	Drink	59	3.8	224.2	123.9	100.3
+1071	22-04-2024	North America	USA	Mall Outlet USA	Americano	Drink	89	3.8	338.2	186.9	151.3
+1072	22-04-2024	Europe	Germany	Business District Germany	Latte	Drink	42	4	168	105	63
+1073	03-05-2024	Europe	Germany	University Cafe Germany	Americano	Drink	61	3.8	231.8	128.1	103.7
+1074	28-01-2024	North America	Canada	Mall Outlet Canada	Bagel	Snack	40	2.8	112	56	56
+1075	17-03-2024	South America	Brazil	Downtown Brazil	Chocolate Croissant	Snack	11	3	33	16.5	16.5
+1076	03-01-2024	Africa	Kenya	Downtown Kenya	Latte	Drink	67	4	268	167.5	100.5
+1077	05-02-2024	Africa	South Africa	Business District South Africa	Bagel	Snack	65	2.8	182	91	91
+1078	01-05-2024	South America	Argentina	Airport Kiosk Argentina	Cold Brew	Drink	53	4.5	238.5	148.4	90.1
+1079	14-03-2024	Africa	South Africa	Downtown South Africa	Chocolate Croissant	Snack	93	3	279	139.5	139.5
+1080	04-05-2024	North America	USA	Downtown USA	Bagel	Snack	41	2.8	114.8	57.4	57.4
+1081	20-04-2024	Africa	South Africa	Downtown South Africa	Espresso	Drink	34	3.5	119	68	51
+1082	11-06-2024	Asia	India	Downtown India	Chocolate Croissant	Snack	61	3	183	91.5	91.5
+1083	23-05-2024	Asia	Japan	Airport Kiosk Japan	Chocolate Croissant	Snack	22	3	66	33	33
+1084	11-02-2024	Europe	UK	Mall Outlet UK	Cold Brew	Drink	52	4.5	234	145.6	88.4
+1085	15-05-2024	Europe	UK	University Cafe UK	Blueberry Muffin	Snack	68	2.5	170	81.6	88.4
+1086	06-06-2024	Asia	India	Business District India	Americano	Drink	22	3.8	83.6	46.2	37.4
+1087	13-02-2024	Asia	Japan	University Cafe Japan	Bagel	Snack	92	2.8	257.6	128.8	128.8
+1088	12-02-2024	Asia	India	Business District India	Americano	Drink	83	3.8	315.4	174.3	141.1
+1089	23-05-2024	Asia	Japan	Airport Kiosk Japan	Bagel	Snack	50	2.8	140	70	70
+1090	03-05-2024	Africa	South Africa	Downtown South Africa	Chocolate Croissant	Snack	85	3	255	127.5	127.5
+1091	12-05-2024	North America	Mexico	Mall Outlet Mexico	Cold Brew	Drink	63	4.5	283.5	176.4	107.1
+1092	04-04-2024	North America	Mexico	Downtown Mexico	Blueberry Muffin	Snack	92	2.5	230	110.4	119.6
+1093	20-05-2024	Europe	UK	Airport Kiosk UK	Blueberry Muffin	Snack	92	2.5	230	110.4	119.6
+1094	27-04-2024	Africa	South Africa	University Cafe South Africa	Cold Brew	Drink	21	4.5	94.5	58.8	35.7
+1095	24-06-2024	Europe	UK	Downtown UK	Cold Brew	Drink	12	4.5	54	33.6	20.4
+1096	14-06-2024	Europe	UK	University Cafe UK	Blueberry Muffin	Snack	39	2.5	97.5	46.8	50.7
+1097	05-03-2024	Europe	Germany	Mall Outlet Germany	Latte	Drink	39	4	156	97.5	58.5
+1098	08-05-2024	South America	Brazil	Airport Kiosk Brazil	Blueberry Muffin	Snack	73	2.5	182.5	87.6	94.9
+1099	14-01-2024	Africa	Kenya	Downtown Kenya	Chocolate Croissant	Snack	38	3	114	57	57
+1100	19-03-2024	Africa	Kenya	University Cafe Kenya	Cappuccino	Drink	48	4.2	201.6	129.6	72
+1101	29-04-2024	North America	Mexico	Downtown Mexico	Latte	Drink	72	4	288	180	108
+1102	30-03-2024	Africa	South Africa	Business District South Africa	Cappuccino	Drink	12	4.2	50.4	32.4	18
+1103	29-02-2024	South America	Brazil	Mall Outlet Brazil	Bagel	Snack	59	2.8	165.2	82.6	82.6
+1104	04-02-2024	Africa	South Africa	Business District South Africa	Americano	Drink	76	3.8	288.8	159.6	129.2
+1105	01-01-2024	South America	Brazil	Mall Outlet Brazil	Cold Brew	Drink	32	4.5	144	89.6	54.4
+1106	04-03-2024	South America	Brazil	Downtown Brazil	Espresso	Drink	79	3.5	276.5	158	118.5
+1107	12-01-2024	South America	Argentina	Airport Kiosk Argentina	Blueberry Muffin	Snack	16	2.5	40	19.2	20.8
+1108	10-06-2024	Africa	South Africa	University Cafe South Africa	Espresso	Drink	13	3.5	45.5	26	19.5
+1109	07-04-2024	Europe	France	University Cafe France	Cold Brew	Drink	14	4.5	63	39.2	23.8
+1110	05-06-2024	North America	Mexico	Downtown Mexico	Latte	Drink	93	4	372	232.5	139.5
+1111	05-02-2024	Asia	India	Business District India	Cappuccino	Drink	95	4.2	399	256.5	142.5
+1112	31-01-2024	North America	Canada	Downtown Canada	Bagel	Snack	50	2.8	140	70	70
+1113	07-03-2024	North America	USA	Airport Kiosk USA	Americano	Drink	96	3.8	364.8	201.6	163.2
+1114	18-04-2024	Europe	France	Business District France	Bagel	Snack	71	2.8	198.8	99.4	99.4
+1115	05-06-2024	South America	Brazil	Downtown Brazil	Espresso	Drink	17	3.5	59.5	34	25.5
+1116	01-01-2024	North America	USA	Airport Kiosk USA	Americano	Drink	19	3.8	72.2	39.9	32.3
+1117	24-05-2024	South America	Brazil	University Cafe Brazil	Blueberry Muffin	Snack	73	2.5	182.5	87.6	94.9
+1118	16-06-2024	South America	Brazil	Business District Brazil	Cappuccino	Drink	21	4.2	88.2	56.7	31.5
+1119	12-01-2024	North America	Mexico	Airport Kiosk Mexico	Chocolate Croissant	Snack	77	3	231	115.5	115.5
+1120	10-03-2024	South America	Brazil	Mall Outlet Brazil	Blueberry Muffin	Snack	52	2.5	130	62.4	67.6
+1121	25-04-2024	Asia	Japan	University Cafe Japan	Blueberry Muffin	Snack	65	2.5	162.5	78	84.5
+1122	04-03-2024	Africa	South Africa	University Cafe South Africa	Chocolate Croissant	Snack	44	3	132	66	66
+1123	27-03-2024	North America	Mexico	Downtown Mexico	Chocolate Croissant	Snack	47	3	141	70.5	70.5
+1124	25-03-2024	North America	Mexico	Business District Mexico	Espresso	Drink	34	3.5	119	68	51
+1125	14-05-2024	Africa	Kenya	Business District Kenya	Americano	Drink	93	3.8	353.4	195.3	158.1
+1126	07-06-2024	Africa	Kenya	Business District Kenya	Latte	Drink	90	4	360	225	135
+1127	13-01-2024	Asia	Japan	Airport Kiosk Japan	Espresso	Drink	37	3.5	129.5	74	55.5
+1128	17-05-2024	North America	Mexico	Mall Outlet Mexico	Chocolate Croissant	Snack	63	3	189	94.5	94.5
+1129	13-04-2024	Asia	India	Airport Kiosk India	Blueberry Muffin	Snack	39	2.5	97.5	46.8	50.7
+1130	18-06-2024	Asia	Japan	Business District Japan	Chocolate Croissant	Snack	97	3	291	145.5	145.5
+1131	06-04-2024	Africa	South Africa	Mall Outlet South Africa	Bagel	Snack	15	2.8	42	21	21
+1132	26-06-2024	South America	Argentina	Airport Kiosk Argentina	Americano	Drink	31	3.8	117.8	65.1	52.7
+1133	12-02-2024	Asia	India	University Cafe India	Cold Brew	Drink	33	4.5	148.5	92.4	56.1
+1134	19-04-2024	North America	Canada	Airport Kiosk Canada	Latte	Drink	46	4	184	115	69
+1135	27-05-2024	North America	Mexico	Mall Outlet Mexico	Latte	Drink	24	4	96	60	36
+1136	04-01-2024	Asia	China	Downtown China	Chocolate Croissant	Snack	59	3	177	88.5	88.5
+1137	01-04-2024	Europe	France	Mall Outlet France	Bagel	Snack	55	2.8	154	77	77
+1138	04-06-2024	North America	Mexico	Mall Outlet Mexico	Americano	Drink	66	3.8	250.8	138.6	112.2
+1139	19-01-2024	Europe	UK	Mall Outlet UK	Cappuccino	Drink	84	4.2	352.8	226.8	126
+1140	05-02-2024	South America	Argentina	Business District Argentina	Blueberry Muffin	Snack	88	2.5	220	105.6	114.4
+1141	10-01-2024	Africa	South Africa	Downtown South Africa	Cappuccino	Drink	71	4.2	298.2	191.7	106.5
+1142	28-02-2024	North America	Canada	Airport Kiosk Canada	Cappuccino	Drink	99	4.2	415.8	267.3	148.5
+1143	20-05-2024	Europe	Germany	Mall Outlet Germany	Cappuccino	Drink	71	4.2	298.2	191.7	106.5
+1144	08-03-2024	Europe	France	Airport Kiosk France	Chocolate Croissant	Snack	82	3	246	123	123
+1145	08-02-2024	Africa	South Africa	Business District South Africa	Americano	Drink	90	3.8	342	189	153
+1146	08-05-2024	South America	Argentina	Airport Kiosk Argentina	Blueberry Muffin	Snack	40	2.5	100	48	52
+1147	26-04-2024	South America	Argentina	Airport Kiosk Argentina	Blueberry Muffin	Snack	70	2.5	175	84	91
+1148	24-05-2024	Europe	Germany	Mall Outlet Germany	Espresso	Drink	15	3.5	52.5	30	22.5
+1149	25-05-2024	Asia	India	Mall Outlet India	Bagel	Snack	68	2.8	190.4	95.2	95.2
+1150	07-03-2024	South America	Argentina	Mall Outlet Argentina	Cold Brew	Drink	94	4.5	423	263.2	159.8
+1151	28-03-2024	Europe	UK	University Cafe UK	Latte	Drink	98	4	392	245	147
+1152	29-01-2024	South America	Brazil	Mall Outlet Brazil	Cold Brew	Drink	57	4.5	256.5	159.6	96.9
+1153	15-05-2024	North America	USA	Mall Outlet USA	Blueberry Muffin	Snack	74	2.5	185	88.8	96.2
+1154	08-01-2024	Asia	China	Mall Outlet China	Espresso	Drink	64	3.5	224	128	96
+1155	24-06-2024	North America	Canada	Airport Kiosk Canada	Bagel	Snack	60	2.8	168	84	84
+1156	01-06-2024	Asia	India	Business District India	Bagel	Snack	62	2.8	173.6	86.8	86.8
+1157	18-01-2024	Africa	Kenya	Airport Kiosk Kenya	Bagel	Snack	97	2.8	271.6	135.8	135.8
+1158	17-03-2024	Africa	South Africa	Downtown South Africa	Americano	Drink	62	3.8	235.6	130.2	105.4
+1159	02-02-2024	Asia	Japan	Downtown Japan	Chocolate Croissant	Snack	52	3	156	78	78
+1160	30-03-2024	Asia	China	Downtown China	Americano	Drink	62	3.8	235.6	130.2	105.4
+1161	29-03-2024	North America	Canada	Airport Kiosk Canada	Latte	Drink	32	4	128	80	48
+1162	02-04-2024	Africa	Kenya	University Cafe Kenya	Chocolate Croissant	Snack	45	3	135	67.5	67.5
+1163	06-01-2024	Africa	Kenya	Business District Kenya	Americano	Drink	99	3.8	376.2	207.9	168.3
+1164	17-02-2024	South America	Argentina	Business District Argentina	Americano	Drink	38	3.8	144.4	79.8	64.6
+1165	10-03-2024	Europe	UK	Mall Outlet UK	Blueberry Muffin	Snack	50	2.5	125	60	65
+1166	01-05-2024	North America	Canada	Business District Canada	Cold Brew	Drink	78	4.5	351	218.4	132.6
+1167	23-04-2024	North America	Canada	University Cafe Canada	Americano	Drink	66	3.8	250.8	138.6	112.2
+1168	18-05-2024	South America	Brazil	Mall Outlet Brazil	Blueberry Muffin	Snack	73	2.5	182.5	87.6	94.9
+1169	22-05-2024	North America	Canada	Downtown Canada	Cold Brew	Drink	99	4.5	445.5	277.2	168.3
+1170	03-02-2024	Europe	UK	Airport Kiosk UK	Cappuccino	Drink	11	4.2	46.2	29.7	16.5
+1171	11-06-2024	Asia	Japan	Airport Kiosk Japan	Espresso	Drink	50	3.5	175	100	75
+1172	10-05-2024	Asia	China	Business District China	Americano	Drink	18	3.8	68.4	37.8	30.6
+1173	17-05-2024	South America	Brazil	Airport Kiosk Brazil	Latte	Drink	75	4	300	187.5	112.5
+1174	27-01-2024	Europe	UK	Mall Outlet UK	Cold Brew	Drink	90	4.5	405	252	153
+1175	02-05-2024	Asia	Japan	Downtown Japan	Latte	Drink	53	4	212	132.5	79.5
+1176	08-01-2024	South America	Argentina	Mall Outlet Argentina	Blueberry Muffin	Snack	48	2.5	120	57.6	62.4
+1177	05-05-2024	Africa	Kenya	Mall Outlet Kenya	Americano	Drink	20	3.8	76	42	34
+1178	18-02-2024	Africa	South Africa	Airport Kiosk South Africa	Latte	Drink	96	4	384	240	144
+1179	06-02-2024	South America	Argentina	University Cafe Argentina	Bagel	Snack	11	2.8	30.8	15.4	15.4
+1180	20-05-2024	Europe	France	University Cafe France	Chocolate Croissant	Snack	20	3	60	30	30
+1181	03-06-2024	Europe	Germany	University Cafe Germany	Latte	Drink	51	4	204	127.5	76.5
+1182	19-03-2024	Asia	Japan	Airport Kiosk Japan	Latte	Drink	70	4	280	175	105
+1183	03-01-2024	Asia	China	Airport Kiosk China	Chocolate Croissant	Snack	58	3	174	87	87
+1184	10-01-2024	Asia	Japan	Downtown Japan	Chocolate Croissant	Snack	51	3	153	76.5	76.5
+1185	22-03-2024	Africa	Kenya	Business District Kenya	Latte	Drink	65	4	260	162.5	97.5
+1186	17-03-2024	Europe	Germany	Business District Germany	Blueberry Muffin	Snack	17	2.5	42.5	20.4	22.1
+1187	07-01-2024	South America	Argentina	Mall Outlet Argentina	Bagel	Snack	51	2.8	142.8	71.4	71.4
+1188	19-05-2024	North America	Mexico	Mall Outlet Mexico	Cappuccino	Drink	83	4.2	348.6	224.1	124.5
+1189	28-05-2024	North America	Canada	University Cafe Canada	Cappuccino	Drink	70	4.2	294	189	105
+1190	22-06-2024	Africa	South Africa	Downtown South Africa	Americano	Drink	40	3.8	152	84	68
+1191	20-01-2024	Africa	Kenya	Business District Kenya	Espresso	Drink	42	3.5	147	84	63
+1192	11-03-2024	South America	Brazil	Mall Outlet Brazil	Americano	Drink	76	3.8	288.8	159.6	129.2
+1193	04-06-2024	Europe	UK	Airport Kiosk UK	Espresso	Drink	19	3.5	66.5	38	28.5
+1194	16-06-2024	Africa	South Africa	Business District South Africa	Bagel	Snack	31	2.8	86.8	43.4	43.4
+1195	05-04-2024	Europe	UK	Airport Kiosk UK	Latte	Drink	69	4	276	172.5	103.5
+1196	28-04-2024	South America	Brazil	Downtown Brazil	Cappuccino	Drink	28	4.2	117.6	75.6	42
+1197	08-06-2024	Africa	Kenya	Downtown Kenya	Cappuccino	Drink	64	4.2	268.8	172.8	96
+1198	03-01-2024	Europe	UK	University Cafe UK	Chocolate Croissant	Snack	24	3	72	36	36
+1199	12-06-2024	South America	Brazil	Downtown Brazil	Chocolate Croissant	Snack	77	3	231	115.5	115.5
+1200	02-03-2024	South America	Brazil	University Cafe Brazil	Bagel	Snack	37	2.8	103.6	51.8	51.8
+1201	06-03-2024	North America	Canada	Business District Canada	Americano	Drink	56	3.8	212.8	117.6	95.2
+1202	05-01-2024	North America	Canada	Mall Outlet Canada	Espresso	Drink	72	3.5	252	144	108
+1203	03-04-2024	Africa	South Africa	Mall Outlet South Africa	Espresso	Drink	71	3.5	248.5	142	106.5
+1204	15-04-2024	South America	Brazil	Business District Brazil	Blueberry Muffin	Snack	88	2.5	220	105.6	114.4
+1205	29-04-2024	North America	USA	Downtown USA	Latte	Drink	75	4	300	187.5	112.5
+1206	19-04-2024	South America	Brazil	Mall Outlet Brazil	Bagel	Snack	69	2.8	193.2	96.6	96.6
+1207	28-05-2024	North America	Mexico	Mall Outlet Mexico	Espresso	Drink	22	3.5	77	44	33
+1208	30-05-2024	Asia	Japan	Business District Japan	Blueberry Muffin	Snack	82	2.5	205	98.4	106.6
+1209	01-06-2024	South America	Brazil	Downtown Brazil	Chocolate Croissant	Snack	19	3	57	28.5	28.5
+1210	08-03-2024	Asia	India	Business District India	Cappuccino	Drink	30	4.2	126	81	45
+1211	21-03-2024	Asia	Japan	Airport Kiosk Japan	Chocolate Croissant	Snack	56	3	168	84	84
+1212	30-01-2024	Europe	Germany	Downtown Germany	Blueberry Muffin	Snack	77	2.5	192.5	92.4	100.1
+1213	19-01-2024	Europe	UK	Airport Kiosk UK	Chocolate Croissant	Snack	76	3	228	114	114
+1214	25-01-2024	Europe	France	University Cafe France	Blueberry Muffin	Snack	22	2.5	55	26.4	28.6
+1215	10-05-2024	North America	USA	Mall Outlet USA	Espresso	Drink	45	3.5	157.5	90	67.5
+1216	01-05-2024	Africa	South Africa	University Cafe South Africa	Cappuccino	Drink	46	4.2	193.2	124.2	69
+1217	18-05-2024	Europe	UK	Mall Outlet UK	Cappuccino	Drink	84	4.2	352.8	226.8	126
+1218	11-04-2024	Asia	China	Airport Kiosk China	Chocolate Croissant	Snack	77	3	231	115.5	115.5
+1219	20-06-2024	Africa	Kenya	University Cafe Kenya	Cold Brew	Drink	97	4.5	436.5	271.6	164.9
+1220	17-02-2024	North America	USA	Mall Outlet USA	Cappuccino	Drink	55	4.2	231	148.5	82.5
+1221	23-02-2024	Europe	France	University Cafe France	Blueberry Muffin	Snack	96	2.5	240	115.2	124.8
+1222	23-01-2024	Africa	Kenya	Mall Outlet Kenya	Americano	Drink	15	3.8	57	31.5	25.5
+1223	30-03-2024	South America	Argentina	Mall Outlet Argentina	Chocolate Croissant	Snack	84	3	252	126	126
+1224	24-06-2024	Asia	Japan	Business District Japan	Cappuccino	Drink	28	4.2	117.6	75.6	42
+1225	24-05-2024	North America	Canada	Mall Outlet Canada	Espresso	Drink	55	3.5	192.5	110	82.5
+1226	21-01-2024	Asia	Japan	Airport Kiosk Japan	Bagel	Snack	43	2.8	120.4	60.2	60.2
+1227	06-02-2024	Africa	South Africa	Mall Outlet South Africa	Latte	Drink	100	4	400	250	150
+1228	19-04-2024	Africa	Kenya	Downtown Kenya	Cappuccino	Drink	34	4.2	142.8	91.8	51
+1229	25-03-2024	Europe	UK	Mall Outlet UK	Espresso	Drink	26	3.5	91	52	39
+1230	13-05-2024	Asia	India	Downtown India	Espresso	Drink	14	3.5	49	28	21
+1231	23-06-2024	Europe	France	Downtown France	Chocolate Croissant	Snack	25	3	75	37.5	37.5
+1232	23-03-2024	Africa	South Africa	University Cafe South Africa	Americano	Drink	95	3.8	361	199.5	161.5
+1233	29-05-2024	Asia	India	Business District India	Chocolate Croissant	Snack	77	3	231	115.5	115.5
+1234	14-03-2024	South America	Brazil	Downtown Brazil	Americano	Drink	12	3.8	45.6	25.2	20.4
+1235	15-06-2024	Asia	China	Business District China	Americano	Drink	17	3.8	64.6	35.7	28.9
+1236	31-05-2024	Europe	France	Airport Kiosk France	Cappuccino	Drink	88	4.2	369.6	237.6	132
+1237	20-02-2024	Europe	Germany	University Cafe Germany	Cappuccino	Drink	71	4.2	298.2	191.7	106.5
+1238	25-01-2024	Africa	South Africa	University Cafe South Africa	Bagel	Snack	32	2.8	89.6	44.8	44.8
+1239	07-01-2024	Europe	Germany	Mall Outlet Germany	Bagel	Snack	82	2.8	229.6	114.8	114.8
+1240	20-05-2024	Africa	Kenya	Business District Kenya	Chocolate Croissant	Snack	51	3	153	76.5	76.5
+1241	20-05-2024	Europe	UK	Business District UK	Latte	Drink	70	4	280	175	105
+1242	11-02-2024	Asia	Japan	Downtown Japan	Latte	Drink	43	4	172	107.5	64.5
+1243	28-01-2024	South America	Argentina	University Cafe Argentina	Cappuccino	Drink	75	4.2	315	202.5	112.5
+1244	23-06-2024	North America	Mexico	Downtown Mexico	Chocolate Croissant	Snack	13	3	39	19.5	19.5
+1245	01-06-2024	South America	Argentina	University Cafe Argentina	Cappuccino	Drink	33	4.2	138.6	89.1	49.5
+1246	06-03-2024	Asia	India	Business District India	Cappuccino	Drink	66	4.2	277.2	178.2	99
+1247	30-05-2024	Europe	Germany	Airport Kiosk Germany	Americano	Drink	79	3.8	300.2	165.9	134.3
+1248	29-02-2024	Africa	South Africa	Business District South Africa	Americano	Drink	14	3.8	53.2	29.4	23.8
+1249	25-06-2024	Europe	France	Mall Outlet France	Chocolate Croissant	Snack	93	3	279	139.5	139.5
+1250	21-03-2024	Europe	UK	University Cafe UK	Cappuccino	Drink	45	4.2	189	121.5	67.5
+1251	14-02-2024	South America	Argentina	Airport Kiosk Argentina	Bagel	Snack	19	2.8	53.2	26.6	26.6
+1252	09-05-2024	South America	Argentina	Business District Argentina	Latte	Drink	29	4	116	72.5	43.5
+1253	23-02-2024	Europe	Germany	Mall Outlet Germany	Bagel	Snack	90	2.8	252	126	126
+1254	17-02-2024	Africa	Kenya	University Cafe Kenya	Espresso	Drink	77	3.5	269.5	154	115.5
+1255	11-01-2024	North America	Canada	Airport Kiosk Canada	Americano	Drink	67	3.8	254.6	140.7	113.9
+1256	21-05-2024	North America	Mexico	Airport Kiosk Mexico	Bagel	Snack	77	2.8	215.6	107.8	107.8
+1257	01-06-2024	Africa	Kenya	Airport Kiosk Kenya	Espresso	Drink	45	3.5	157.5	90	67.5
+1258	07-04-2024	North America	Mexico	Airport Kiosk Mexico	Cold Brew	Drink	84	4.5	378	235.2	142.8
+1259	02-04-2024	North America	Canada	Mall Outlet Canada	Espresso	Drink	15	3.5	52.5	30	22.5
+1260	26-04-2024	Europe	UK	Airport Kiosk UK	Cold Brew	Drink	58	4.5	261	162.4	98.6
+1261	05-04-2024	Asia	China	University Cafe China	Americano	Drink	68	3.8	258.4	142.8	115.6
+1262	07-04-2024	Africa	South Africa	Business District South Africa	Chocolate Croissant	Snack	69	3	207	103.5	103.5
+1263	23-01-2024	Europe	UK	University Cafe UK	Espresso	Drink	28	3.5	98	56	42
+1264	22-06-2024	Asia	China	Airport Kiosk China	Cappuccino	Drink	86	4.2	361.2	232.2	129
+1265	05-01-2024	North America	Canada	Downtown Canada	Cold Brew	Drink	15	4.5	67.5	42	25.5
+1266	06-01-2024	Africa	South Africa	Mall Outlet South Africa	Blueberry Muffin	Snack	48	2.5	120	57.6	62.4
+1267	16-06-2024	Europe	France	Mall Outlet France	Cold Brew	Drink	46	4.5	207	128.8	78.2
+1268	16-05-2024	Asia	India	University Cafe India	Blueberry Muffin	Snack	96	2.5	240	115.2	124.8
+1269	20-06-2024	Europe	Germany	University Cafe Germany	Americano	Drink	81	3.8	307.8	170.1	137.7
+1270	25-03-2024	Europe	France	University Cafe France	Chocolate Croissant	Snack	81	3	243	121.5	121.5
+1271	17-03-2024	Africa	Kenya	Airport Kiosk Kenya	Blueberry Muffin	Snack	99	2.5	247.5	118.8	128.7
+1272	09-02-2024	Asia	China	Downtown China	Cappuccino	Drink	84	4.2	352.8	226.8	126
+1273	12-05-2024	North America	USA	Business District USA	Espresso	Drink	96	3.5	336	192	144
+1274	02-03-2024	Africa	Kenya	Business District Kenya	Cold Brew	Drink	64	4.5	288	179.2	108.8
+1275	21-05-2024	Europe	Germany	Airport Kiosk Germany	Latte	Drink	64	4	256	160	96
+1276	07-02-2024	South America	Argentina	Business District Argentina	Espresso	Drink	84	3.5	294	168	126
+1277	13-04-2024	North America	Canada	Business District Canada	Chocolate Croissant	Snack	35	3	105	52.5	52.5
+1278	21-02-2024	South America	Brazil	Mall Outlet Brazil	Cold Brew	Drink	84	4.5	378	235.2	142.8
+1279	30-03-2024	Europe	France	Mall Outlet France	Chocolate Croissant	Snack	17	3	51	25.5	25.5
+1280	30-05-2024	Africa	South Africa	University Cafe South Africa	Americano	Drink	64	3.8	243.2	134.4	108.8
+1281	05-01-2024	Africa	Kenya	University Cafe Kenya	Latte	Drink	25	4	100	62.5	37.5
+1282	18-04-2024	Africa	Kenya	Business District Kenya	Chocolate Croissant	Snack	50	3	150	75	75
+1283	17-02-2024	Europe	UK	Downtown UK	Blueberry Muffin	Snack	100	2.5	250	120	130
+1284	12-05-2024	Europe	UK	Mall Outlet UK	Cappuccino	Drink	59	4.2	247.8	159.3	88.5
+1285	09-05-2024	Europe	UK	University Cafe UK	Chocolate Croissant	Snack	53	3	159	79.5	79.5
+1286	14-06-2024	South America	Argentina	Airport Kiosk Argentina	Espresso	Drink	16	3.5	56	32	24
+1287	19-05-2024	North America	Canada	Mall Outlet Canada	Chocolate Croissant	Snack	72	3	216	108	108
+1288	18-01-2024	North America	Mexico	Airport Kiosk Mexico	Latte	Drink	41	4	164	102.5	61.5
+1289	22-06-2024	North America	Mexico	Downtown Mexico	Latte	Drink	65	4	260	162.5	97.5
+1290	25-04-2024	South America	Brazil	Mall Outlet Brazil	Chocolate Croissant	Snack	75	3	225	112.5	112.5
+1291	14-04-2024	South America	Argentina	Downtown Argentina	Americano	Drink	48	3.8	182.4	100.8	81.6
+1292	04-05-2024	Asia	Japan	Downtown Japan	Bagel	Snack	77	2.8	215.6	107.8	107.8
+1293	23-06-2024	South America	Argentina	Business District Argentina	Blueberry Muffin	Snack	12	2.5	30	14.4	15.6
+1294	05-02-2024	South America	Brazil	Airport Kiosk Brazil	Cold Brew	Drink	49	4.5	220.5	137.2	83.3
+1295	25-02-2024	South America	Brazil	Business District Brazil	Americano	Drink	16	3.8	60.8	33.6	27.2
+1296	26-03-2024	Asia	Japan	Airport Kiosk Japan	Cold Brew	Drink	55	4.5	247.5	154	93.5
+1297	21-01-2024	North America	Canada	Airport Kiosk Canada	Americano	Drink	49	3.8	186.2	102.9	83.3
+1298	24-04-2024	North America	USA	Business District USA	Chocolate Croissant	Snack	13	3	39	19.5	19.5
+1299	01-06-2024	Africa	South Africa	University Cafe South Africa	Cappuccino	Drink	40	4.2	168	108	60
+1300	26-01-2024	Asia	China	University Cafe China	Latte	Drink	37	4	148	92.5	55.5
+1301	09-03-2024	Europe	France	Mall Outlet France	Latte	Drink	24	4	96	60	36
+1302	24-01-2024	South America	Argentina	Downtown Argentina	Cappuccino	Drink	54	4.2	226.8	145.8	81
+1303	15-02-2024	Europe	UK	Airport Kiosk UK	Chocolate Croissant	Snack	96	3	288	144	144
+1304	06-05-2024	North America	Canada	Business District Canada	Blueberry Muffin	Snack	42	2.5	105	50.4	54.6
+1305	15-02-2024	Asia	India	Airport Kiosk India	Latte	Drink	90	4	360	225	135
+1306	01-02-2024	Africa	Kenya	University Cafe Kenya	Cold Brew	Drink	66	4.5	297	184.8	112.2
+1307	15-04-2024	Europe	UK	Business District UK	Cold Brew	Drink	14	4.5	63	39.2	23.8
+1308	08-02-2024	Africa	Kenya	Downtown Kenya	Bagel	Snack	99	2.8	277.2	138.6	138.6
+1309	25-02-2024	North America	Mexico	University Cafe Mexico	Bagel	Snack	35	2.8	98	49	49
+1310	16-02-2024	Asia	India	Airport Kiosk India	Bagel	Snack	78	2.8	218.4	109.2	109.2
+1311	20-06-2024	Africa	South Africa	Business District South Africa	Bagel	Snack	99	2.8	277.2	138.6	138.6
+1312	14-02-2024	Asia	India	Airport Kiosk India	Espresso	Drink	99	3.5	346.5	198	148.5
+1313	04-01-2024	Asia	China	Downtown China	Cold Brew	Drink	35	4.5	157.5	98	59.5
+1314	23-05-2024	Asia	Japan	Business District Japan	Cold Brew	Drink	78	4.5	351	218.4	132.6
+1315	05-03-2024	Europe	UK	Mall Outlet UK	Americano	Drink	96	3.8	364.8	201.6	163.2
+1316	02-02-2024	Asia	Japan	Downtown Japan	Chocolate Croissant	Snack	88	3	264	132	132
+1317	29-03-2024	Europe	Germany	Business District Germany	Cold Brew	Drink	87	4.5	391.5	243.6	147.9
+1318	09-03-2024	North America	Mexico	Mall Outlet Mexico	Cold Brew	Drink	94	4.5	423	263.2	159.8
+1319	04-04-2024	Africa	South Africa	Business District South Africa	Latte	Drink	67	4	268	167.5	100.5
+1320	16-06-2024	Africa	South Africa	University Cafe South Africa	Americano	Drink	68	3.8	258.4	142.8	115.6
+1321	25-05-2024	South America	Argentina	Airport Kiosk Argentina	Cold Brew	Drink	73	4.5	328.5	204.4	124.1
+1322	08-06-2024	Africa	Kenya	Downtown Kenya	Espresso	Drink	75	3.5	262.5	150	112.5
+1323	18-01-2024	Africa	South Africa	University Cafe South Africa	Bagel	Snack	46	2.8	128.8	64.4	64.4
+1324	22-02-2024	South America	Brazil	Business District Brazil	Espresso	Drink	78	3.5	273	156	117
+1325	10-03-2024	Africa	South Africa	Mall Outlet South Africa	Americano	Drink	70	3.8	266	147	119
+1326	24-02-2024	Africa	Kenya	Downtown Kenya	Blueberry Muffin	Snack	94	2.5	235	112.8	122.2
+1327	27-01-2024	Europe	Germany	University Cafe Germany	Americano	Drink	21	3.8	79.8	44.1	35.7
+1328	25-03-2024	Asia	Japan	Airport Kiosk Japan	Cold Brew	Drink	85	4.5	382.5	238	144.5
+1329	22-03-2024	Asia	India	University Cafe India	Bagel	Snack	90	2.8	252	126	126
+1330	18-04-2024	Africa	South Africa	Downtown South Africa	Chocolate Croissant	Snack	63	3	189	94.5	94.5
+1331	17-05-2024	Europe	Germany	Business District Germany	Latte	Drink	94	4	376	235	141
+1332	10-02-2024	South America	Brazil	Mall Outlet Brazil	Chocolate Croissant	Snack	68	3	204	102	102
+1333	15-02-2024	Asia	China	Mall Outlet China	Espresso	Drink	68	3.5	238	136	102
+1334	23-01-2024	Asia	India	Airport Kiosk India	Chocolate Croissant	Snack	28	3	84	42	42
+1335	18-03-2024	North America	Canada	Mall Outlet Canada	Cold Brew	Drink	89	4.5	400.5	249.2	151.3
+1336	06-04-2024	North America	USA	University Cafe USA	Cold Brew	Drink	16	4.5	72	44.8	27.2
+1337	22-05-2024	Asia	China	Business District China	Espresso	Drink	14	3.5	49	28	21
+1338	29-06-2024	Europe	UK	Airport Kiosk UK	Bagel	Snack	83	2.8	232.4	116.2	116.2
+1339	10-03-2024	North America	USA	Downtown USA	Latte	Drink	35	4	140	87.5	52.5
+1340	11-03-2024	South America	Argentina	Mall Outlet Argentina	Espresso	Drink	64	3.5	224	128	96
+1341	05-03-2024	Africa	South Africa	Downtown South Africa	Americano	Drink	23	3.8	87.4	48.3	39.1
+1342	10-04-2024	North America	Canada	Airport Kiosk Canada	Cappuccino	Drink	63	4.2	264.6	170.1	94.5
+1343	02-06-2024	Africa	Kenya	University Cafe Kenya	Espresso	Drink	89	3.5	311.5	178	133.5
+1344	10-06-2024	Asia	China	Airport Kiosk China	Blueberry Muffin	Snack	91	2.5	227.5	109.2	118.3
+1345	26-03-2024	South America	Brazil	Downtown Brazil	Blueberry Muffin	Snack	94	2.5	235	112.8	122.2
+1346	30-05-2024	Africa	South Africa	Business District South Africa	Cold Brew	Drink	27	4.5	121.5	75.6	45.9
+1347	13-06-2024	Europe	UK	Downtown UK	Blueberry Muffin	Snack	66	2.5	165	79.2	85.8
+1348	15-02-2024	Europe	UK	Mall Outlet UK	Blueberry Muffin	Snack	53	2.5	132.5	63.6	68.9
+1349	20-05-2024	South America	Brazil	Mall Outlet Brazil	Latte	Drink	29	4	116	72.5	43.5
+1350	01-04-2024	South America	Argentina	Mall Outlet Argentina	Cappuccino	Drink	100	4.2	420	270	150
+1351	07-05-2024	Asia	India	Airport Kiosk India	Espresso	Drink	12	3.5	42	24	18
+1352	11-03-2024	Asia	India	University Cafe India	Latte	Drink	67	4	268	167.5	100.5
+1353	13-06-2024	North America	Canada	Business District Canada	Espresso	Drink	98	3.5	343	196	147
+1354	29-01-2024	Africa	South Africa	University Cafe South Africa	Bagel	Snack	90	2.8	252	126	126
+1355	15-05-2024	Africa	Kenya	Mall Outlet Kenya	Latte	Drink	59	4	236	147.5	88.5
+1356	29-02-2024	Africa	Kenya	Airport Kiosk Kenya	Cold Brew	Drink	11	4.5	49.5	30.8	18.7
+1357	02-02-2024	Asia	Japan	Airport Kiosk Japan	Americano	Drink	43	3.8	163.4	90.3	73.1
+1358	08-06-2024	Africa	South Africa	Business District South Africa	Cold Brew	Drink	30	4.5	135	84	51
+1359	09-04-2024	South America	Argentina	Downtown Argentina	Blueberry Muffin	Snack	52	2.5	130	62.4	67.6
+1360	27-04-2024	Europe	Germany	Business District Germany	Espresso	Drink	55	3.5	192.5	110	82.5
+1361	09-03-2024	Asia	China	Airport Kiosk China	Cappuccino	Drink	79	4.2	331.8	213.3	118.5
+1362	13-01-2024	Africa	South Africa	Airport Kiosk South Africa	Blueberry Muffin	Snack	34	2.5	85	40.8	44.2
+1363	23-02-2024	Asia	India	Mall Outlet India	Cappuccino	Drink	86	4.2	361.2	232.2	129
+1364	23-06-2024	Africa	South Africa	Downtown South Africa	Espresso	Drink	11	3.5	38.5	22	16.5
+1365	04-01-2024	Europe	UK	University Cafe UK	Americano	Drink	67	3.8	254.6	140.7	113.9
+1366	10-02-2024	Africa	South Africa	University Cafe South Africa	Americano	Drink	56	3.8	212.8	117.6	95.2
+1367	09-01-2024	South America	Brazil	Mall Outlet Brazil	Latte	Drink	32	4	128	80	48
+1368	14-06-2024	North America	Mexico	Airport Kiosk Mexico	Chocolate Croissant	Snack	82	3	246	123	123
+1369	30-01-2024	Africa	Kenya	Mall Outlet Kenya	Cappuccino	Drink	42	4.2	176.4	113.4	63
+1370	04-05-2024	Europe	France	Downtown France	Espresso	Drink	97	3.5	339.5	194	145.5
+1371	14-05-2024	Asia	India	University Cafe India	Cold Brew	Drink	82	4.5	369	229.6	139.4
+1372	12-05-2024	Asia	India	Mall Outlet India	Bagel	Snack	58	2.8	162.4	81.2	81.2
+1373	09-05-2024	South America	Brazil	Mall Outlet Brazil	Blueberry Muffin	Snack	67	2.5	167.5	80.4	87.1
+1374	20-02-2024	Europe	Germany	Airport Kiosk Germany	Latte	Drink	83	4	332	207.5	124.5
+1375	08-02-2024	Asia	Japan	University Cafe Japan	Chocolate Croissant	Snack	91	3	273	136.5	136.5
+1376	01-06-2024	Europe	France	Mall Outlet France	Americano	Drink	53	3.8	201.4	111.3	90.1
+1377	14-06-2024	Africa	Kenya	Business District Kenya	Chocolate Croissant	Snack	62	3	186	93	93
+1378	11-01-2024	Africa	Kenya	Mall Outlet Kenya	Blueberry Muffin	Snack	26	2.5	65	31.2	33.8
+1379	12-05-2024	Asia	Japan	Downtown Japan	Americano	Drink	64	3.8	243.2	134.4	108.8
+1380	31-05-2024	Asia	India	Airport Kiosk India	Latte	Drink	93	4	372	232.5	139.5
+1381	28-06-2024	South America	Brazil	Business District Brazil	Cold Brew	Drink	74	4.5	333	207.2	125.8
+1382	12-06-2024	North America	Mexico	Business District Mexico	Americano	Drink	68	3.8	258.4	142.8	115.6
+1383	17-05-2024	North America	Mexico	Airport Kiosk Mexico	Bagel	Snack	27	2.8	75.6	37.8	37.8
+1384	17-01-2024	North America	USA	Business District USA	Bagel	Snack	86	2.8	240.8	120.4	120.4
+1385	23-06-2024	Europe	UK	University Cafe UK	Chocolate Croissant	Snack	73	3	219	109.5	109.5
+1386	28-01-2024	North America	USA	Downtown USA	Espresso	Drink	62	3.5	217	124	93
+1387	20-05-2024	Asia	India	Downtown India	Latte	Drink	75	4	300	187.5	112.5
+1388	23-06-2024	Africa	Kenya	University Cafe Kenya	Blueberry Muffin	Snack	27	2.5	67.5	32.4	35.1
+1389	02-02-2024	North America	Canada	Downtown Canada	Chocolate Croissant	Snack	15	3	45	22.5	22.5
+1390	01-02-2024	Europe	UK	University Cafe UK	Cappuccino	Drink	85	4.2	357	229.5	127.5
+1391	15-04-2024	North America	USA	Business District USA	Espresso	Drink	37	3.5	129.5	74	55.5
+1392	02-01-2024	North America	Canada	Downtown Canada	Bagel	Snack	23	2.8	64.4	32.2	32.2
+1393	15-02-2024	Africa	Kenya	University Cafe Kenya	Espresso	Drink	45	3.5	157.5	90	67.5
+1394	11-02-2024	Asia	China	Mall Outlet China	Cold Brew	Drink	85	4.5	382.5	238	144.5
+1395	05-04-2024	Europe	Germany	Business District Germany	Cold Brew	Drink	99	4.5	445.5	277.2	168.3
+1396	21-04-2024	Asia	India	Airport Kiosk India	Chocolate Croissant	Snack	72	3	216	108	108
+1397	06-06-2024	South America	Argentina	Airport Kiosk Argentina	Blueberry Muffin	Snack	58	2.5	145	69.6	75.4
+1398	28-01-2024	South America	Brazil	Business District Brazil	Cappuccino	Drink	80	4.2	336	216	120
+1399	14-03-2024	Africa	South Africa	Downtown South Africa	Cold Brew	Drink	71	4.5	319.5	198.8	120.7
+1400	11-01-2024	Africa	South Africa	Downtown South Africa	Blueberry Muffin	Snack	17	2.5	42.5	20.4	22.1
+1401	25-03-2024	South America	Brazil	Downtown Brazil	Latte	Drink	34	4	136	85	51
+1402	10-06-2024	Europe	Germany	University Cafe Germany	Cappuccino	Drink	39	4.2	163.8	105.3	58.5
+1403	01-05-2024	South America	Argentina	University Cafe Argentina	Chocolate Croissant	Snack	55	3	165	82.5	82.5
+1404	14-01-2024	Africa	South Africa	Mall Outlet South Africa	Latte	Drink	88	4	352	220	132
+1405	21-02-2024	North America	USA	Airport Kiosk USA	Cold Brew	Drink	55	4.5	247.5	154	93.5
+1406	22-01-2024	Europe	UK	University Cafe UK	Latte	Drink	96	4	384	240	144
+1407	01-01-2024	Europe	France	Mall Outlet France	Latte	Drink	33	4	132	82.5	49.5
+1408	28-02-2024	Asia	India	University Cafe India	Cappuccino	Drink	28	4.2	117.6	75.6	42
+1409	17-06-2024	South America	Brazil	Airport Kiosk Brazil	Chocolate Croissant	Snack	45	3	135	67.5	67.5
+1410	17-05-2024	Asia	Japan	Business District Japan	Espresso	Drink	34	3.5	119	68	51
+1411	28-02-2024	Asia	China	University Cafe China	Latte	Drink	57	4	228	142.5	85.5
+1412	23-06-2024	North America	USA	Downtown USA	Americano	Drink	74	3.8	281.2	155.4	125.8
+1413	10-01-2024	Africa	Kenya	Downtown Kenya	Blueberry Muffin	Snack	88	2.5	220	105.6	114.4
+1414	28-06-2024	Europe	UK	Mall Outlet UK	Chocolate Croissant	Snack	79	3	237	118.5	118.5
+1415	26-05-2024	Europe	France	Mall Outlet France	Espresso	Drink	68	3.5	238	136	102
+1416	04-04-2024	South America	Argentina	Business District Argentina	Latte	Drink	49	4	196	122.5	73.5
+1417	04-01-2024	Africa	Kenya	Mall Outlet Kenya	Espresso	Drink	21	3.5	73.5	42	31.5
+1418	23-03-2024	South America	Brazil	Airport Kiosk Brazil	Cappuccino	Drink	60	4.2	252	162	90
+1419	30-05-2024	South America	Argentina	Mall Outlet Argentina	Latte	Drink	34	4	136	85	51
+1420	05-03-2024	Asia	Japan	University Cafe Japan	Americano	Drink	56	3.8	212.8	117.6	95.2
+1421	21-06-2024	South America	Brazil	Business District Brazil	Cappuccino	Drink	41	4.2	172.2	110.7	61.5
+1422	11-04-2024	Europe	UK	Downtown UK	Blueberry Muffin	Snack	48	2.5	120	57.6	62.4
+1423	29-06-2024	Asia	India	Business District India	Americano	Drink	92	3.8	349.6	193.2	156.4
+1424	27-01-2024	South America	Argentina	Airport Kiosk Argentina	Bagel	Snack	21	2.8	58.8	29.4	29.4
+1425	11-03-2024	Africa	Kenya	Mall Outlet Kenya	Americano	Drink	68	3.8	258.4	142.8	115.6
+1426	06-05-2024	North America	Canada	Mall Outlet Canada	Espresso	Drink	14	3.5	49	28	21
+1427	11-04-2024	Europe	UK	Airport Kiosk UK	Cold Brew	Drink	75	4.5	337.5	210	127.5
+1428	11-05-2024	Europe	France	Downtown France	Latte	Drink	17	4	68	42.5	25.5
+1429	10-05-2024	Africa	South Africa	University Cafe South Africa	Espresso	Drink	78	3.5	273	156	117
+1430	29-04-2024	South America	Argentina	Downtown Argentina	Espresso	Drink	57	3.5	199.5	114	85.5
+1431	03-05-2024	Europe	Germany	University Cafe Germany	Latte	Drink	98	4	392	245	147
+1432	13-06-2024	South America	Argentina	Mall Outlet Argentina	Espresso	Drink	94	3.5	329	188	141
+1433	07-02-2024	Asia	India	Airport Kiosk India	Chocolate Croissant	Snack	87	3	261	130.5	130.5
+1434	03-02-2024	Europe	Germany	Airport Kiosk Germany	Americano	Drink	57	3.8	216.6	119.7	96.9
+1435	22-06-2024	Europe	Germany	Mall Outlet Germany	Cappuccino	Drink	77	4.2	323.4	207.9	115.5
+1436	19-04-2024	Europe	France	University Cafe France	Cappuccino	Drink	81	4.2	340.2	218.7	121.5
+1437	05-05-2024	Asia	India	Business District India	Cappuccino	Drink	38	4.2	159.6	102.6	57
+1438	13-04-2024	Asia	China	Mall Outlet China	Cappuccino	Drink	96	4.2	403.2	259.2	144
+1439	15-04-2024	Africa	South Africa	Mall Outlet South Africa	Blueberry Muffin	Snack	99	2.5	247.5	118.8	128.7
+1440	17-05-2024	Africa	South Africa	Business District South Africa	Cold Brew	Drink	34	4.5	153	95.2	57.8
+1441	29-01-2024	Africa	Kenya	Downtown Kenya	Blueberry Muffin	Snack	28	2.5	70	33.6	36.4
+1442	25-04-2024	South America	Brazil	Business District Brazil	Cold Brew	Drink	99	4.5	445.5	277.2	168.3
+1443	15-04-2024	South America	Brazil	Downtown Brazil	Cappuccino	Drink	57	4.2	239.4	153.9	85.5
+1444	19-05-2024	Asia	India	Airport Kiosk India	Cold Brew	Drink	48	4.5	216	134.4	81.6
+1445	03-05-2024	Africa	Kenya	Downtown Kenya	Chocolate Croissant	Snack	28	3	84	42	42
+1446	05-05-2024	North America	Mexico	University Cafe Mexico	Americano	Drink	10	3.8	38	21	17
+1447	28-06-2024	South America	Brazil	Business District Brazil	Bagel	Snack	51	2.8	142.8	71.4	71.4
+1448	06-03-2024	North America	Canada	University Cafe Canada	Latte	Drink	16	4	64	40	24
+1449	16-01-2024	Europe	Germany	Airport Kiosk Germany	Americano	Drink	42	3.8	159.6	88.2	71.4
+1450	03-06-2024	Africa	South Africa	Airport Kiosk South Africa	Espresso	Drink	74	3.5	259	148	111
+1451	02-06-2024	North America	Mexico	Airport Kiosk Mexico	Americano	Drink	31	3.8	117.8	65.1	52.7
+1452	17-04-2024	Europe	France	Business District France	Cold Brew	Drink	54	4.5	243	151.2	91.8
+1453	13-05-2024	Europe	Germany	University Cafe Germany	Bagel	Snack	44	2.8	123.2	61.6	61.6
+1454	23-03-2024	Africa	South Africa	Business District South Africa	Cappuccino	Drink	26	4.2	109.2	70.2	39
+1455	08-04-2024	Africa	South Africa	Business District South Africa	Americano	Drink	47	3.8	178.6	98.7	79.9
+1456	13-01-2024	South America	Brazil	Downtown Brazil	Latte	Drink	62	4	248	155	93
+1457	22-06-2024	South America	Argentina	Mall Outlet Argentina	Latte	Drink	50	4	200	125	75
+1458	19-06-2024	South America	Argentina	University Cafe Argentina	Bagel	Snack	94	2.8	263.2	131.6	131.6
+1459	15-03-2024	Africa	Kenya	University Cafe Kenya	Cappuccino	Drink	33	4.2	138.6	89.1	49.5
+1460	10-03-2024	North America	Mexico	Mall Outlet Mexico	Chocolate Croissant	Snack	36	3	108	54	54
+1461	19-05-2024	Africa	Kenya	Mall Outlet Kenya	Bagel	Snack	66	2.8	184.8	92.4	92.4
+1462	29-05-2024	North America	USA	Mall Outlet USA	Latte	Drink	80	4	320	200	120
+1463	29-02-2024	Africa	South Africa	University Cafe South Africa	Latte	Drink	65	4	260	162.5	97.5
+1464	07-06-2024	Africa	Kenya	University Cafe Kenya	Americano	Drink	65	3.8	247	136.5	110.5
+1465	04-01-2024	South America	Argentina	University Cafe Argentina	Bagel	Snack	60	2.8	168	84	84
+1466	21-05-2024	Europe	France	University Cafe France	Cold Brew	Drink	52	4.5	234	145.6	88.4
+1467	23-03-2024	Africa	Kenya	Downtown Kenya	Americano	Drink	85	3.8	323	178.5	144.5
+1468	08-05-2024	Europe	Germany	Mall Outlet Germany	Cappuccino	Drink	56	4.2	235.2	151.2	84
+1469	14-05-2024	Europe	France	Airport Kiosk France	Cappuccino	Drink	86	4.2	361.2	232.2	129
+1470	24-06-2024	Asia	India	Downtown India	Blueberry Muffin	Snack	20	2.5	50	24	26
+1471	04-04-2024	Africa	Kenya	Mall Outlet Kenya	Blueberry Muffin	Snack	64	2.5	160	76.8	83.2
+1472	29-02-2024	Europe	France	Downtown France	Espresso	Drink	45	3.5	157.5	90	67.5
+1473	10-06-2024	Africa	Kenya	Mall Outlet Kenya	Chocolate Croissant	Snack	51	3	153	76.5	76.5
+1474	09-04-2024	Europe	UK	Downtown UK	Espresso	Drink	58	3.5	203	116	87
+1475	11-02-2024	North America	Canada	Downtown Canada	Espresso	Drink	94	3.5	329	188	141
+1476	17-05-2024	Africa	South Africa	Mall Outlet South Africa	Bagel	Snack	97	2.8	271.6	135.8	135.8
+1477	31-05-2024	Asia	India	Business District India	Cappuccino	Drink	75	4.2	315	202.5	112.5
+1478	17-01-2024	Europe	UK	Airport Kiosk UK	Cold Brew	Drink	52	4.5	234	145.6	88.4
+1479	26-03-2024	Asia	Japan	Downtown Japan	Bagel	Snack	57	2.8	159.6	79.8	79.8
+1480	15-05-2024	Europe	Germany	Airport Kiosk Germany	Americano	Drink	67	3.8	254.6	140.7	113.9
+1481	02-03-2024	Europe	Germany	University Cafe Germany	Espresso	Drink	15	3.5	52.5	30	22.5
+1482	15-05-2024	Asia	Japan	Business District Japan	Latte	Drink	73	4	292	182.5	109.5
+1483	14-06-2024	North America	USA	Airport Kiosk USA	Chocolate Croissant	Snack	16	3	48	24	24
+1484	11-01-2024	North America	Canada	Business District Canada	Blueberry Muffin	Snack	26	2.5	65	31.2	33.8
+1485	14-06-2024	Asia	China	University Cafe China	Espresso	Drink	89	3.5	311.5	178	133.5
+1486	02-01-2024	Europe	UK	Business District UK	Espresso	Drink	23	3.5	80.5	46	34.5
+1487	11-04-2024	Europe	UK	Business District UK	Cold Brew	Drink	81	4.5	364.5	226.8	137.7
+1488	10-04-2024	Africa	Kenya	Downtown Kenya	Blueberry Muffin	Snack	69	2.5	172.5	82.8	89.7
+1489	02-06-2024	North America	USA	Mall Outlet USA	Cappuccino	Drink	94	4.2	394.8	253.8	141
+1490	27-04-2024	Europe	UK	Mall Outlet UK	Espresso	Drink	12	3.5	42	24	18
+1491	29-03-2024	Europe	UK	Mall Outlet UK	Cold Brew	Drink	62	4.5	279	173.6	105.4
+1492	24-03-2024	South America	Argentina	Downtown Argentina	Chocolate Croissant	Snack	85	3	255	127.5	127.5
+1493	21-04-2024	North America	USA	University Cafe USA	Cappuccino	Drink	22	4.2	92.4	59.4	33
+1494	09-01-2024	Africa	Kenya	University Cafe Kenya	Bagel	Snack	86	2.8	240.8	120.4	120.4
+1495	30-05-2024	South America	Brazil	Business District Brazil	Cappuccino	Drink	92	4.2	386.4	248.4	138
+1496	26-02-2024	South America	Brazil	Business District Brazil	Chocolate Croissant	Snack	42	3	126	63	63
+1497	05-04-2024	North America	Canada	University Cafe Canada	Americano	Drink	64	3.8	243.2	134.4	108.8
+1498	13-03-2024	South America	Brazil	Mall Outlet Brazil	Americano	Drink	37	3.8	140.6	77.7	62.9
+1499	17-02-2024	South America	Argentina	Airport Kiosk Argentina	Cappuccino	Drink	10	4.2	42	27	15
+1500	21-01-2024	Africa	Kenya	Mall Outlet Kenya	Espresso	Drink	98	3.5	343	196	147
 
