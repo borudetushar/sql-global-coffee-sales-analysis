@@ -1,5 +1,4 @@
-# sql-global-coffee-sales-analysis
-Analyze a global coffee chain's sales dataset to find key insights like:  Regional performance  Best-selling products  Profitability by segment  Seasonal trends  Store revenue rankings
+
 # Global Coffee Chain Sales Analysis ☕
 
 This SQL project analyzes global coffee chain sales data to uncover insights about regional performance, top-selling products, and profit margins.
